@@ -8,7 +8,7 @@ The project captures data from 2008 to 2024, revealing patterns, trends, and eve
 So, if you've ever wondered if an oil spike could leave you crying over your stock portfolio or if gold prices really glitter when markets tank – this dashboard has your answer
 
 ## Dashboard Link
-You can access the dashboard using the following link:
+You can access the dashboard using the following link or by downloading the **Interconnected Markets** pbix file:
 [Interconnected Markets Dashboard](https://app.powerbi.com/groups/me/reports/5b4c98e2-c919-4321-a079-1462f2dba1b2?ctid=cd91c0c8-83b6-4bfd-8b69-7d65c0140912&pbi_source=linkShare)
 
 
