@@ -9,7 +9,7 @@ So, if you've ever wondered if an oil spike could leave you crying over your sto
 
 ## Dashboard Link
 You can access the dashboard using the following link:
-[Interconnected Markets Dashboard](https://app.powerbi.com/links/ZEg7eANWLO?ctid=cd91c0c8-83b6-4bfd-8b69-7d65c0140912&pbi_source=linkShare)
+[Interconnected Markets Dashboard](https://app.powerbi.com/groups/me/reports/5b4c98e2-c919-4321-a079-1462f2dba1b2?ctid=cd91c0c8-83b6-4bfd-8b69-7d65c0140912&pbi_source=linkShare)
 
 
 ![Preview](https://github.com/user-attachments/assets/a4915e28-36fe-4412-a2ba-73caf3d6b17c)
